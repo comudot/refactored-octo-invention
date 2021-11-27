@@ -1,2 +1,2 @@
 # refactored-octo-invention
-just test XD
+just test XD.
